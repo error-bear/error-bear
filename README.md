@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @error-bear! You can call me Erin if you like. 
 - 👀 I’m interested in becoming a technical writer within the next two years or so.
-- 🌱 I’m currently learning Markdown and Jekyll in my own free time, and am experimenting with Git and the like. In the next year, I'd like to learn more about Back-End programming, but that might take some time. 
+- 🌱 I’m currently learning how to integrate my programming skills with my sizeable writing experience. 
 - 💞️ I’m looking to collaborate on open-source projects for the time being. In particular, I'm fascinated with Linux documentation, particularly documentation for working with the ArchLinux OS, and might try that sometime if I get the opportunity.
 - 📫 You can reach me at practicalerrors@gmail.com if the urge strikes. 
 
